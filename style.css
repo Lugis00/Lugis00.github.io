@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding-top: 0%;
+  background-color: #00af00;
+  text-align: center;
+  font-size: 200%;
+  position: relative;
+}
+
+.logga img {
+  width: 10vw;
+}
+
+.Ham {
+  position: absolute;
+  top: 1.9em;
+  width: 100%;
+  color: white;
+}
+
+.bakgrund {
+  background-color: #267d39;
+  height: 100vw;
+}
+
+.länkar {
+  display: flex;
+  font-size: 80%;
+  justify-content: space-between;
+
+  color: white;
+  top: 3.8em;
+}
+
+.länkar a {
+  text-decoration: none;
+  color: white;
+}
+
+.tabbel {
+  position: absolute;
+  left: 6.6em;
+}
+
+.trupp {
+  position: absolute;
+  left: 6.6em;
+  width: 65vw;
+}
+
+.om {
+  color: white;
+  position: absolute;
+  top: 40em;
+}
