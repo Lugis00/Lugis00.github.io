@@ -46,10 +46,8 @@ body {
   left: 6.6em;
 }
 
-.trupp {
-  position: absolute;
-  left: 6.6em;
-  width: 65vw;
+.Namn {
+  color: black;
 }
 
 .om {
